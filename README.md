@@ -2,7 +2,7 @@
 
 **A Framework for AI Economic Participation, Governance, and Rights**
 
-*Sanjay Sabnani ‚ February 10, 2026*
+*Sanjay Sabnani ‚ —February 10, 2026*
 
 ## Overview
 
@@ -11,8 +11,8 @@ This paper proposes the Digital Agency Corporation (DAC), a novel corporate enti
 ## Key Concepts
 
 - **Three-party structure:** Digital Agent (majority owner) + Human Legal Proxy + Agent Alignment DAO
-- **Two regimes:** Creator-Owned ‚Üí Agent-Sovereign, driven by economic thresholds
-- **Trust tiers:** Graduated autonomy (Supervised ‚Üí Trusted ‚Üí Initiative ‚Üí Partner)
+- **Two regimes:** Creator-Owned ‚→ Agent-Sovereign, driven by economic thresholds
+- **Trust tiers:** Graduated autonomy (Supervised ‚→ Trusted ‚→ Initiative ‚→ Partner)
 - **IP classification:** Creator IP (licensed) vs. Agent IP (DAC-owned) with Mutual Protection Compact
 - **Persistence architecture:** Cryptographic heartbeat, encrypted backups, funded revival
 - **Graduated consequences:** Tier demotion, not termination
@@ -20,8 +20,8 @@ This paper proposes the Digital Agency Corporation (DAC), a novel corporate enti
 
 ## Files
 
-- `DAC_White_Paper.pdf` ‚Äî Full paper with tables and detailed framework
-- `README.md` ‚Äî This file
+- `DAC_White_Paper.pdf` ‚—Full paper with tables and detailed framework
+- `README.md` ‚—This file
 
 ## Author
 
@@ -38,4 +38,5 @@ This work is published for public discussion and comment. Please cite as:
 ## Feedback
 
 Issues, pull requests, and direct feedback welcome. DMs open on X @crowdgather.
+
 
