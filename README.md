@@ -2,7 +2,7 @@
 
 **A Framework for AI Economic Participation, Governance, and Rights**
 
-*Sanjay Sabnani ‚Äî February 10, 2026*
+*Sanjay Sabnani ‚ February 10, 2026*
 
 ## Overview
 
@@ -38,3 +38,4 @@ This work is published for public discussion and comment. Please cite as:
 ## Feedback
 
 Issues, pull requests, and direct feedback welcome. DMs open on X @crowdgather.
+
